@@ -1,4 +1,4 @@
 git add .
-git commit -m "component & pipeline structure has been created"
+git commit -m "logger and exception modified"
 git branch -M main
 git push origin main
